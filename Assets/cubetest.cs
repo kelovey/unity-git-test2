@@ -7,6 +7,7 @@ public class cubetest : MonoBehaviour {
 	void Start () {
         Debug.Log("Hello! GitHub!");
         Debug.Log("test");
+        Debug.Log("test2");
 	}
 	
 	// Update is called once per frame
